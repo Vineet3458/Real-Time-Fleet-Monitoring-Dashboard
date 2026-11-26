@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "dev": "node init && vite --host 0.0.0.0",
-    "build": "node init && vite build",
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
     "preview": "vite preview --host 0.0.0.0"
   },
   "dependencies": {
